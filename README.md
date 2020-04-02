@@ -20,6 +20,7 @@ This is a [hyperlink](https://github.com).
 
 连接到More文件
 Link to [More文件](More.md)
+提示：可以用相对路径。比如sub/More.md
 
 引用：
 >A text-to-HTML formatting syntax for web writers, implemented as a plug-in for Movable Type, Blosxom, and BBEdit. Markdown allows you to write using an easy-to-read, easy-to-write plain text format, then convert it to structurally valid XHTML (or HTML).--Verge
