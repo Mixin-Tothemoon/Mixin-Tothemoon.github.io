@@ -18,6 +18,8 @@ This is a *text* sample.
 This is a [hyperlink](https://github.com).
 注意：需要加https://，否则无法打开链接。
 
+连接到More文件
+Link to [More文件](More.md)
 
 引用：
 >A text-to-HTML formatting syntax for web writers, implemented as a plug-in for Movable Type, Blosxom, and BBEdit. Markdown allows you to write using an easy-to-read, easy-to-write plain text format, then convert it to structurally valid XHTML (or HTML).--Verge
